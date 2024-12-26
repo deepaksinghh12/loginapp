@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="welcome_to_the_app">Welcome to the App</string>
+</resources>
